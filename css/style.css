@@ -11,10 +11,14 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+/*main {
+    background: rgb(252, 255, 54, 0.9);
+}*/
+
 header {
     width: 100%;
     height: 50px;
-    background: rgb(62, 60, 179);
+    background: rgb(40, 60, 235, 0.9);
     color: #fff;
     position: fixed;
     top: 0;
@@ -26,6 +30,11 @@ header {
     width: 98%;
     margin: auto;
 }
+
+/*.logo {
+    height: 50px;
+    margin: 7px;
+  } */
 
 h1 {
     float: left;
@@ -62,7 +71,7 @@ footer .contenedor {
 }
 
 .sociales a {
-    color: rgb(62, 60, 179);
+    color: #333;
     text-decoration: none;
 }
 
